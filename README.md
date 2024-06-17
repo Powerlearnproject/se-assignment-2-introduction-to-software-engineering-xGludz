@@ -23,9 +23,9 @@ What is requirements engineering? Describe the process and its importance in the
 The process of gathering, examining, recording, verifying, and overseeing the needs for a software system is known as requirements engineering. It guarantees that the software system satisfies the requirements and anticipations of its concerned parties.
 
 Software Design Principles:
+
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-
-
+Modularity in software design involves breaking a system into smaller, independent components. It improves maintainability and scalability by enabling easier updates and expansion.
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
@@ -43,10 +43,11 @@ Discuss the role of a software project manager. What are some key responsibiliti
 The project manager oversees the planning execution and development of a software project and the challenges faced are 
 Software Maintenance:
 
-Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?Software maintenance is the process of adding, updating, and changing software to fix bugs and adapt to changing needs.It enables software to be maintained in order to satisfy changing user needs and technical improvements while remaining current, dependable, and effective over time.
+
 Ethical Considerations in Software Engineering:
 
-What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?Ethical issues faced by software engineers are: Privacy violations, biased algorithms, misuse of data. Adherence of ethics through ethical guidelines, regular ethical training, and ethical code implementation.
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
